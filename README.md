@@ -1,4 +1,4 @@
-# Trial
+# trial
 this project is trial for student js101
 
 
